@@ -1,0 +1,217 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+MERGED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-67:12
+MERGED from [:unityLibrary:mobilenotifications.androidlib] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\mobilenotifications.androidlib\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-34:12
+INJECTED from F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+	package
+		ADDED from F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:70-115
+		INJECTED from F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+		INJECTED from F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:116-162
+	android:versionCode
+		INJECTED from F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+		INJECTED from F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:163-203
+application
+ADDED from F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:3-83
+MERGED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:5-65:19
+MERGED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:5-65:19
+MERGED from [:unityLibrary:mobilenotifications.androidlib] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\mobilenotifications.androidlib\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:5-32:19
+MERGED from [:unityLibrary:mobilenotifications.androidlib] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\mobilenotifications.androidlib\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:5-32:19
+	android:extractNativeLibs
+		ADDED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:18-50
+	android:label
+		ADDED from F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:16-48
+	android:icon
+		ADDED from F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:49-80
+supports-screens
+ADDED from F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:3-163
+	android:largeScreens
+		ADDED from F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:78-105
+	android:smallScreens
+		ADDED from F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:21-48
+	android:normalScreens
+		ADDED from F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:49-77
+	android:xlargeScreens
+		ADDED from F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:106-134
+	android:anyDensity
+		ADDED from F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:135-160
+uses-sdk
+INJECTED from F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+INJECTED from F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+MERGED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:6:5-8:41
+MERGED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:6:5-8:41
+MERGED from [:unityLibrary:mobilenotifications.androidlib] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\mobilenotifications.androidlib\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:unityLibrary:mobilenotifications.androidlib] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\mobilenotifications.androidlib\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+INJECTED from F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+INJECTED from F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:22-64
+uses-feature#0x00030000
+ADDED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:19-51
+uses-feature#android.hardware.vulkan.version
+ADDED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:5-15:36
+	android:required
+		ADDED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:9-33
+	android:name
+		ADDED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:9-55
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:5-18:36
+	android:required
+		ADDED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:9-33
+	android:name
+		ADDED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:5-21:36
+	android:required
+		ADDED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:9-33
+	android:name
+		ADDED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:22:5-24:36
+	android:required
+		ADDED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:9-33
+	android:name
+		ADDED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:9-72
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:9-29:33
+	android:value
+		ADDED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:29:13-30
+	android:name
+		ADDED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:30:9-32:36
+	android:value
+		ADDED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:32:13-33
+	android:name
+		ADDED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:31:13-47
+meta-data#unity.launch-fullscreen
+ADDED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:33:9-35:36
+	android:value
+		ADDED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:35:13-33
+	android:name
+		ADDED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:34:13-51
+meta-data#notch.config
+ADDED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:36:9-38:50
+	android:value
+		ADDED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:38:13-47
+	android:name
+		ADDED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:37:13-40
+meta-data#unity.auto-report-fully-drawn
+ADDED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:39:9-41:36
+	android:value
+		ADDED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:41:13-33
+	android:name
+		ADDED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:40:13-57
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:43:9-64:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:50:13-49
+	android:launchMode
+		ADDED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:48:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:47:13-48
+	android:exported
+		ADDED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:46:13-36
+	android:resizeableActivity
+		ADDED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:49:13-47
+	android:configChanges
+		ADDED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:45:13-194
+	android:theme
+		ADDED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:51:13-54
+	android:name
+		ADDED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:44:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:52:13-56:29
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:53:17-77
+	android:name
+		ADDED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:53:27-74
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:55:17-69
+	android:name
+		ADDED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:55:25-66
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:58:13-60:40
+	android:value
+		ADDED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:60:17-37
+	android:name
+		ADDED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:59:17-57
+meta-data#notch_support
+ADDED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:61:13-63:40
+	android:value
+		ADDED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:63:17-37
+	android:name
+		ADDED from [:unityLibrary] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:62:17-45
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from [:unityLibrary:mobilenotifications.androidlib] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\mobilenotifications.androidlib\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-77
+	android:name
+		ADDED from [:unityLibrary:mobilenotifications.androidlib] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\mobilenotifications.androidlib\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-74
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [:unityLibrary:mobilenotifications.androidlib] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\mobilenotifications.androidlib\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [:unityLibrary:mobilenotifications.androidlib] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\mobilenotifications.androidlib\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.SCHEDULE_EXACT_ALARM
+ADDED from [:unityLibrary:mobilenotifications.androidlib] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\mobilenotifications.androidlib\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [:unityLibrary:mobilenotifications.androidlib] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\mobilenotifications.androidlib\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:22-76
+receiver#com.unity.androidnotifications.UnityNotificationManager
+ADDED from [:unityLibrary:mobilenotifications.androidlib] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\mobilenotifications.androidlib\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:9-16:40
+	android:exported
+		ADDED from [:unityLibrary:mobilenotifications.androidlib] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\mobilenotifications.androidlib\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from [:unityLibrary:mobilenotifications.androidlib] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\mobilenotifications.androidlib\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-83
+receiver#com.unity.androidnotifications.UnityNotificationRestartReceiver
+ADDED from [:unityLibrary:mobilenotifications.androidlib] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\mobilenotifications.androidlib\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:9-24:20
+	android:enabled
+		ADDED from [:unityLibrary:mobilenotifications.androidlib] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\mobilenotifications.androidlib\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-36
+	android:exported
+		ADDED from [:unityLibrary:mobilenotifications.androidlib] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\mobilenotifications.androidlib\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from [:unityLibrary:mobilenotifications.androidlib] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\mobilenotifications.androidlib\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-91
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from [:unityLibrary:mobilenotifications.androidlib] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\mobilenotifications.androidlib\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:13-23:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [:unityLibrary:mobilenotifications.androidlib] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\mobilenotifications.androidlib\build\intermediates\merged_manifest\debug\AndroidManifest.xml:22:17-79
+	android:name
+		ADDED from [:unityLibrary:mobilenotifications.androidlib] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\mobilenotifications.androidlib\build\intermediates\merged_manifest\debug\AndroidManifest.xml:22:25-76
+meta-data#reschedule_notifications_on_restart
+ADDED from [:unityLibrary:mobilenotifications.androidlib] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\mobilenotifications.androidlib\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:9-28:36
+	android:value
+		ADDED from [:unityLibrary:mobilenotifications.androidlib] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\mobilenotifications.androidlib\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:13-33
+	android:name
+		ADDED from [:unityLibrary:mobilenotifications.androidlib] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\mobilenotifications.androidlib\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-63
+meta-data#com.unity.androidnotifications.exact_scheduling
+ADDED from [:unityLibrary:mobilenotifications.androidlib] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\mobilenotifications.androidlib\build\intermediates\merged_manifest\debug\AndroidManifest.xml:29:9-31:33
+	android:value
+		ADDED from [:unityLibrary:mobilenotifications.androidlib] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\mobilenotifications.androidlib\build\intermediates\merged_manifest\debug\AndroidManifest.xml:31:13-30
+	android:name
+		ADDED from [:unityLibrary:mobilenotifications.androidlib] F:\Projects\Space Adventure 3D\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\mobilenotifications.androidlib\build\intermediates\merged_manifest\debug\AndroidManifest.xml:30:13-75

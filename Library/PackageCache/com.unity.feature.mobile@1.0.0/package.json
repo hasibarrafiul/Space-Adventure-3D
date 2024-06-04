@@ -11,5 +11,6 @@
     "com.unity.mobile.android-logcat": "default",
     "com.unity.adaptiveperformance": "default",
     "com.unity.mobile.notifications": "default"
-  }
+  },
+  "_fingerprint": "86441c5f15d844b18a22a76cc317aa1701e2a1d7"
 }

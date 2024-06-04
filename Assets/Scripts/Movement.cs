@@ -4,13 +4,16 @@ using System.Collections;
 public class Movement : MonoBehaviour
 {
     public GameObject bulletPrefab;
-    public float moveSpeed = 5f;
+    public float moveSpeed = 25f;
     private Vector2 touchStartPos;
     private bool isSwiping = false;
     private float swipeThreshold = 50f;
     private bool isTouching = false;
     private Vector2 lastTouchPosition;
     private Coroutine shootingCoroutine;
+
+    public int upperBound = 50;
+    public int lowerBound = -50;
 
     private void Update()
     {
@@ -66,11 +69,11 @@ public class Movement : MonoBehaviour
         if (isTouching && isSwiping)
         {
             Vector2 touchDelta = lastTouchPosition - touchStartPos;
-            if (touchDelta.x > swipeThreshold)
+            if ((touchDelta.x > swipeThreshold) && transform.position.x < upperBound)
             {
                 transform.Translate(Vector3.right * moveSpeed * Time.deltaTime);
             }
-            else if (touchDelta.x < -swipeThreshold)
+            else if ((touchDelta.x < -swipeThreshold) && transform.position.x > lowerBound)
             {
                 transform.Translate(Vector3.left * moveSpeed * Time.deltaTime);
             }

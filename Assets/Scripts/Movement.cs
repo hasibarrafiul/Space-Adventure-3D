@@ -4,16 +4,56 @@ using System.Collections;
 public class Movement : MonoBehaviour
 {
     public GameObject bulletPrefab;
+    public GameObject RockPrefab1;
+    public GameObject RockPrefab2;
+    public GameObject RockPrefab3;
     public float moveSpeed = 25f;
     private Vector2 touchStartPos;
     private bool isSwiping = false;
-    private float swipeThreshold = 50f;
+    private float swipeThreshold = 25f;
     private bool isTouching = false;
     private Vector2 lastTouchPosition;
     private Coroutine shootingCoroutine;
 
     public int upperBound = 50;
     public int lowerBound = -50;
+
+    public int spawnCount = 5;
+
+    private void Start() {
+        for (int i = 0; i < spawnCount; i++)
+        {
+            // Generate a random position within the specified range
+            Vector3 randomPosition = new Vector3(
+                Mathf.Round(Random.Range(-50, 50) / 5) * 5, 1, Random.Range(300, 1000)
+            );
+
+            // Instantiate a new object at the random position
+            Instantiate(RockPrefab1, randomPosition, Quaternion.identity);
+        }
+
+        for (int i = 0; i < spawnCount; i++)
+        {
+            // Generate a random position within the specified range
+            Vector3 randomPosition = new Vector3(
+                Mathf.Round(Random.Range(-50, 50) / 5) * 5, 1, Random.Range(300, 1000)
+            );
+
+            // Instantiate a new object at the random position
+            Instantiate(RockPrefab2, randomPosition, Quaternion.identity);
+        }
+
+        for (int i = 0; i < spawnCount; i++)
+        {
+            // Generate a random position within the specified range
+            Vector3 randomPosition = new Vector3(
+                Mathf.Round(Random.Range(-50, 50) / 5) * 5, 1, Random.Range(300, 1000)
+            );
+
+            // Instantiate a new object at the random position
+            Instantiate(RockPrefab3, randomPosition, Quaternion.identity);
+        }
+    }
 
     private void Update()
     {

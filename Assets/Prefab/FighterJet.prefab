@@ -11,12 +11,17 @@ PrefabInstance:
     - target: {fileID: 359485738817279527, guid: a5bba4471f2b885428541314bad7877b,
         type: 3}
       propertyPath: m_Name
-      value: FighterJet Variant
+      value: FighterJet
+      objectReference: {fileID: 0}
+    - target: {fileID: 359485738817279527, guid: a5bba4471f2b885428541314bad7877b,
+        type: 3}
+      propertyPath: m_TagString
+      value: Player
       objectReference: {fileID: 0}
     - target: {fileID: 1132363881725136029, guid: a5bba4471f2b885428541314bad7877b,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: -0.18
       objectReference: {fileID: 0}
     - target: {fileID: 1132363881725136029, guid: a5bba4471f2b885428541314bad7877b,
         type: 3}
@@ -63,8 +68,99 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7721261454650182366, guid: a5bba4471f2b885428541314bad7877b,
+        type: 3}
+      propertyPath: moveSpeed
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 7721261454650182366, guid: a5bba4471f2b885428541314bad7877b,
+        type: 3}
+      propertyPath: RockPrefab1
+      value: 
+      objectReference: {fileID: 4432044952923280815, guid: 5949185b7d20b194995cf6dce79f9040,
+        type: 3}
+    - target: {fileID: 7721261454650182366, guid: a5bba4471f2b885428541314bad7877b,
+        type: 3}
+      propertyPath: RockPrefab2
+      value: 
+      objectReference: {fileID: 5622653771788175682, guid: 19624ac4b200e504a83f686d3ff1b197,
+        type: 3}
+    - target: {fileID: 7721261454650182366, guid: a5bba4471f2b885428541314bad7877b,
+        type: 3}
+      propertyPath: RockPrefab3
+      value: 
+      objectReference: {fileID: 2315751459331695550, guid: 0d236029f97728246b772ea0f745839d,
+        type: 3}
+    - target: {fileID: 7721261454650182366, guid: a5bba4471f2b885428541314bad7877b,
+        type: 3}
+      propertyPath: bulletPrefab
+      value: 
+      objectReference: {fileID: 3576591140205367606, guid: 37feeee2fdd60e34f94e6b616f5b9aef,
+        type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 359485738817279527, guid: a5bba4471f2b885428541314bad7877b,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 750225438824132052}
+    - targetCorrespondingSourceObject: {fileID: 359485738817279527, guid: a5bba4471f2b885428541314bad7877b,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6479679693580208093}
   m_SourcePrefab: {fileID: 100100000, guid: a5bba4471f2b885428541314bad7877b, type: 3}
+--- !u!1 &4538608740545446474 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 359485738817279527, guid: a5bba4471f2b885428541314bad7877b,
+    type: 3}
+  m_PrefabInstance: {fileID: 4179699744030069869}
+  m_PrefabAsset: {fileID: 0}
+--- !u!54 &750225438824132052
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4538608740545446474}
+  serializedVersion: 4
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_CenterOfMass: {x: 0, y: 0, z: 0}
+  m_InertiaTensor: {x: 1, y: 1, z: 1}
+  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ImplicitCom: 1
+  m_ImplicitTensor: 1
+  m_UseGravity: 0
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 124
+  m_CollisionDetection: 1
+--- !u!65 &6479679693580208093
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4538608740545446474}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 14.21287, y: 6.8567996, z: 9.893407}
+  m_Center: {x: -0.021197319, y: 1.5617917, z: -4.4467034}

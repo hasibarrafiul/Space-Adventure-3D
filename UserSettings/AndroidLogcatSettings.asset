@@ -3,7 +3,7 @@
     "m_SelectedProcess": {
         "deviceId": "QV721WN554",
         "name": "com.DefaultCompany.SpaceAdventure3D",
-        "processId": 6436,
+        "processId": 31214,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -24,6 +24,18 @@
             "deviceId": "QV721WN554",
             "name": "com.DefaultCompany.SpaceAdventure3D",
             "processId": 6436,
+            "exited": false
+        },
+        {
+            "deviceId": "QV721WN554",
+            "name": "com.DefaultCompany.SpaceAdventure3D",
+            "processId": 30728,
+            "exited": false
+        },
+        {
+            "deviceId": "QV721WN554",
+            "name": "com.DefaultCompany.SpaceAdventure3D",
+            "processId": 31214,
             "exited": false
         }
     ],

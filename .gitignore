@@ -1,0 +1,99 @@
+# This .gitignore file is intended to be used for Unity projects.
+
+# Ignore the Library folder
+Library/
+
+# Ignore the Temp folder
+Temp/
+
+# Ignore the build folder
+Build/
+
+# Ignore the obj folder
+obj/
+
+# Ignore the Logs folder
+Logs/
+
+# Ignore the MemoryCaptures folder
+MemoryCaptures/
+
+# Ignore the UserSettings folder
+UserSettings/
+
+# Ignore Visual Studio cache directory
+.vscode/
+
+# Ignore aut-generated VS/MD solution and project files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Ignore Unity3d generated file on crash reports
+sysinfo.txt
+
+# Ignore crash reports
+crash-*.log
+
+# Ignore temporary files
+*.pidb.meta
+
+# Ignore all other meta files
+*.pidb
+
+# Ignore temporary built application files
+*.apk
+*.aab
+*.unitypackage
+
+# Uncomment if using Unity cloud build
+# /[Cc]ache/
+
+# Uncomment if using Google Cloud build
+# /[Gg]oogle/
+
+# Ignore Mac OS X system files
+.DS_Store
+.DS_Store?
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.Spotlight-V100
+.Trashes
+
+# Directories potentially created on remote AFP share
+.AppleDouble
+.AppleDB
+.Network Trash Folder
+.TemporaryItems
+.apdisk
+
+# Ignore Windows system files
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Ignore npm debug log
+npm-debug.log
+
+# Ignore JetBrains IDEs
+.idea/
+*.iml
+*.iws
+
+# Ignore Unity Cache Server
+/[Cc]ache/

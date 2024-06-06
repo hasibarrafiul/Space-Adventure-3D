@@ -12,6 +12,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Asteroid3
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 5f67db069f8983f49bdeff2fdad26975, type: 3}
+      propertyPath: m_TagString
+      value: Rock
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5f67db069f8983f49bdeff2fdad26975, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -76,6 +80,14 @@ PrefabInstance:
         type: 3}
       insertIndex: -1
       addedObject: {fileID: 3988792318952692523}
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: 5f67db069f8983f49bdeff2fdad26975,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6238347945843592108}
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: 5f67db069f8983f49bdeff2fdad26975,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3174628371716023998}
   m_SourcePrefab: {fileID: 100100000, guid: 5f67db069f8983f49bdeff2fdad26975, type: 3}
 --- !u!1 &2315751459331695550 stripped
 GameObject:
@@ -95,7 +107,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d7edfb9588e123648b849c3a32faea6f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotationSpeed: 100
+  rotationSpeed: 50
 --- !u!114 &3988792318952692523
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -108,4 +120,38 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 541ab042840f9b647b13eb7e540c28f1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 100
+  speed: 25
+  increaseAmount: 0.5
+--- !u!114 &6238347945843592108
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2315751459331695550}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97c654b469c1dc5499eef2b951bc6a03, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!135 &3174628371716023998
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2315751459331695550}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 1.7622132
+  m_Center: {x: -0.0876385, y: 0.0077008605, z: -0.07396954}
